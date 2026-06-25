@@ -1,0 +1,73 @@
+{
+    "items":[
+
+            {
+             "sys":{"id":"1"},
+             "fields":{
+                "title":"python programming mastercourse",
+                "price":123.99,
+                "image":{"fields":{"file":{"url":"python.png"}}}
+             }
+            },
+            
+             {
+             "sys":{"id":"2"},
+             "fields":{
+                "title":"c++ mastercourse",
+                "price":110.99,
+                "image":
+                {"fields":{"file":{"url":"c++.png"}}}
+             }
+            },
+             {
+             "sys":{"id":"3"},
+             "fields":{
+                "title":"web development for beginners",
+                "price":99.99,
+                "image":{"fields":{"file":{"url":"web1.png"}}}
+
+             }
+            },
+             {
+             "sys":{"id":"4"},
+             "fields":{
+                "title":"java programming mastercourse",
+                "price":149.99,
+                "image":{"fields":{"file":{"url":"java.png"}}}
+
+             }
+            },
+             {
+             "sys":{"id":"5"},
+             "fields":{
+                "title":"Digital marketing full course",
+                "price":109.99,
+                "image":{"fields":{"file":{ "url": "digital.png" }}}
+
+             }
+            },
+             {
+             "sys":{"id":"6"},
+             "fields":{
+                "title":"advance web development",
+                "price":199.99,
+                "image":{"fields":{"file":{"url":"advance_web.png"}}}
+             }
+            },
+             {
+             "sys":{"id":"7"},
+             "fields":{
+                "title":"Data Structures and algorithm Full course",
+                "price":99.99,
+                "image":{"fields":{"file":{"url":"data.png"}}}
+             }
+            }, {
+             "sys":{"id":"8"},
+             "fields":{
+                "title":"Data Science full course",
+                "price":149.99,
+                "image":{"fields":{"file":{"url":"data_science.png"}}}
+             }
+            } 
+    ]
+}
